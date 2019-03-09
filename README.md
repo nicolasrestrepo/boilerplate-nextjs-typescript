@@ -5,7 +5,7 @@ this boilerplate was created to initiate projects using nextjs, typescript and g
 # run
 
 ```sh
-npm && npm dev
+npm && npm run dev
 
 ```
 
