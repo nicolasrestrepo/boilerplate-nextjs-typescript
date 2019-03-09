@@ -1,0 +1,31 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-react"
+  ],
+  "rules": {
+    "jsx-wrap-multiline": false,
+    "no-implicit-dependencies": [
+      false,
+      "optional"
+    ],
+    "no-submodule-imports": false,
+    "quotemark": [
+      true,
+      "single"
+    ],
+    "jsx-no-multiline-js": false,
+    "jsx-boolean-value": [
+      false,
+      "always"
+    ],
+    "jsx-no-lambda": [
+      false,
+      "always"
+    ],
+    "semicolon": [
+      true,
+      "never"
+    ]
+  }
+}
