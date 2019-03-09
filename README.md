@@ -4,12 +4,11 @@ this boilerplate was created to initiate projects using nextjs, typescript and g
 
 # run
 
-[Yarn](https://github.com/yarnpkg/)
-
 ```sh
-yarn && yarn start
+npm && npm dev
 
 ```
+
 
 # Features
 
